@@ -1,0 +1,3 @@
+-- Configuração do GIT
+git config --global user.name Gabriel9Nicoletti
+git config --global user.email gabrielhn.28.pinheiro@gmail.com 
